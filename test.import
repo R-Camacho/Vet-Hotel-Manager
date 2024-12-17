@@ -1,0 +1,27 @@
+ESPÉCIE|C10|ave
+ESPÉCIE|C8|mamífero
+ESPÉCIE|C1|peixe
+ÁRVORE|T1|Pinheiro 1|5|20|PERENE
+ÁRVORE|T4|Pinheiro 4|60|20|PERENE
+ÁRVORE|T2|Oliveira|1200|10|PERENE
+ÁRVORE|T6|Figueira|5|10|CADUCA
+ÁRVORE|T3|Plátano|300|20|CADUCA
+ÁRVORE|P1|Plátano|100|20|CADUCA
+ÁRVORE|F30|Figueira|50|20|CADUCA
+HABITAT|AR1|Aldeia dos Macacos|20|T3,P1,F30,T2
+HABITAT|AR2|Floresta tropical|30|T1,T4,T6
+HABITAT|AR3|Deserto|3
+ANIMAL|A1|Alex|C10|AR1
+ANIMAL|A2|Nemo|C1|AR2
+ANIMAL|AA|Bobi|C8|AR1
+ANIMAL|MA|Chita|C8|AR2
+TRATADOR|W2SO4|John Figueiredo|AR2,AR3
+TRATADOR|W2O|Rohit Figueiredo|AR1
+TRATADOR|W24|Rohit Figueiredo
+VETERINÁRIO|V2|Jorge Figueiredo|C10,C8,C1
+VETERINÁRIO|V4|Filomena Figueiredo
+VETERINÁRIO|VR|Abdul Figueiredo|C8
+VACINA|V3|Tétano|C8
+VACINA|V200|Parasitas intestinais|C10,C8,C1
+VACINA|V42172|Tétano|C10
+VACINA|Vexperimental|Gripe A1|C8
