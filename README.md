@@ -18,7 +18,7 @@ hva-app/
         hva/
             app/
                 animal/
-                `hva-app/src/hva/app/App.java`
+                hva-app/src/hva/app/App.java
                 employee/
                 exceptions/
                 habitat/
@@ -34,14 +34,14 @@ hva-core/
             exceptions/
             habitat/
             Hotel.java
-            `hva-core/src/hva/HotelManager.java`
+            hva-core/src/hva/HotelManager.java
             tree/
             util/
             vaccine/
 po-uilib-202408310000/
     LICENSE
     Makefile
-    `README.md`
+    README.md
     src/
         pt/
             tecnico/
